@@ -1,6 +1,6 @@
 {
     "exchange": {
-        "name": "kucoin",
+        "name": "bybit",
         "pair_whitelist": [
             "BTC/USDT:USDT",
             "ETH/USDT:USDT",
