@@ -1,0 +1,17 @@
+{
+    "exchange": {
+        "name": "kucoin",
+        "pair_whitelist": [
+            "BTC/USDT:USDT",
+            "ETH/USDT:USDT",
+            "OP/USDT:USDT",
+            "DOGE/USDT:USDT",
+            "DYDX/USDT:USDT",
+            "ATOM/USDT:USDT",
+            "MAGIC/USDT:USDT",
+            "MASK/USDT:USDT",
+            "GMX/USDT:USDT",
+            "BIT/USDT:USDT"
+        ]
+    }
+}
