@@ -1,5 +1,7 @@
 {
   "max_open_trades": 1,
+  "trading_mode": "futures",
+  "margin_mode": "isolated",
   "stake_currency": "USDT",
   "stake_amount": "unlimited",
   "tradable_balance_ratio": 0.99,
@@ -15,8 +17,7 @@
       "secret": "",
       "ccxt_config": {"enableRateLimit": true},
       "ccxt_async_config": {
-          "enableRateLimit": true,
-          "rateLimit": 200
+          "enableRateLimit": true
       },
       "pair_whitelist":[
     ]
